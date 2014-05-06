@@ -1,0 +1,5 @@
+{
+"enginecompare": [
+{"EngineName":"Unity", "2Dsupport":"Yes", "3Dsupport":"Yes", "Windows":"Yes", "Linux":"Yes", "OSX":"Yes", "iOS":"Yes", "Android":"Yes", "Console":"Yes", "NextGenConsole":"Yes", "Cost":5, "Forums":10, "Updates":5, "OpenSource":"No", "Commercial":"Yes", "Tutorials":10, "Documentation":10, "C":"Yes", "Java":"No", "HTML5":"Yes", "Python":"No" },
+{"EngineName":"SDL2", "2Dsupport":"Yes", "3Dsupport":"No", "Windows":"Yes", "Linux":"Yes", "OSX":"Yes", "iOS":"Yes", "Android":"Yes", "Console":"No", "NextGenConsole":"No", "Cost":10, "Forums":10, "Updates":5, "OpenSource":"Yes", "Commercial":"No", "Tutorials":5, "Documentation":10, "C":"Yes", "Java":"No", "HTML5":"No", "Python":"No" }
+]}
