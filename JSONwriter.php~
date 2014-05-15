@@ -7,7 +7,7 @@
 	
 	//error_log("List POST data; ");
 	//foreach($jsonString as $json)
-	//error_log($jsonString);
+		error_log($jsonString);
 	
 	$params = array('2Dsupport', '3Dsupport', 'Windows', 'Linux', 'OSX', 'iOS', 'Android', 'Console', 'NextGenConsole', 'Cost', 'Forums', 'Updates', 'OpenSource', 'Commercial', 'Tutorials', 'Documentation', 'C', 'Java', 'HTML5', 'Python');
 	$params2 = array('Forums', 'Documentation', 'Tutorials', 'TimeToLearn', 'Prerequisites', 'LowEndBuild', 'DevelopmentWeight', 'BuildWeight', 'PlatformsBuiltTo', 'PlatformQuality', 'SwitchingPlatforms', 'PlatformDevelopment', 'CustomGUI', 'ChangeSource', 'Plugins', 'PurchasePrice', 'Subscription', 'Assets', 'DevelopmentExpense', '2Dsupport', '3Dsupport', 'Windows', 'Linux', 'OSX', 'iOS', 'Android', 'Console', 'NextGenConsole', 'C', 'Java', 'HTML5', 'Python', 'OpenSource', 'Commercial');

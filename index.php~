@@ -85,7 +85,7 @@
 	<h1 style="text-align:center">Evaluate an Engine</h1>
 	<br />
 	<div style="width:80%; margin: auto; margin-bottom: 100px">
-	<div style="width: 45%;margin-left: 0; margin-right:4%; display:inline-block">
+	<div style="width: 40%;margin-left: 0; display:inline-block">
 	<form role="form" style="overflow-y: auto; height: 600px">
 		<div class="form-group">
 			<label for="EngineName">Engine Name</label>
