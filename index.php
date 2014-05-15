@@ -131,7 +131,7 @@
 	<!-- Bootstrap plugin for multiselect lists -->
 	<script src="js/silviomoreto-bootstrap/bootstrap-select.min.js"></script>
 	<!-- For sorting and such -->
-	<script src="http://listjs.com/no-cdn/list.js"></script>
+	<!--<script src="http://listjs.com/no-cdn/list.js"></script>-->
 	<script type="text/javascript">
 		$(document).ready(function(e) {
       	$('.selectpicker').selectpicker(); // Initialize selectpicker plugin
@@ -175,7 +175,7 @@
 		}; // end weights array
 		
 		// List object for sorting plugin, take this out?
-		var engineList = new List('engines', options);
+		// var engineList = new List('engines', options);
 		
 		// Table object
 		var tableSort = document.getElementById("jsonTable");
